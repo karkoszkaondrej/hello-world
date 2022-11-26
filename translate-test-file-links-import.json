@@ -1,0 +1,7 @@
+{
+    "en": "fr",
+    "Application": "=PROPER(GOOGLETRANSLATE($B$1;$A$1;A2 ))",
+    "Title": "=GOOGLETRANSLATE($C$1;$A$1;A2 )",
+    "Activity": "=PROPER(GOOGLETRANSLATE($D$1;$A$1;A2 ))",
+    "Color": "=GOOGLETRANSLATE($E$1;$A$1;A2 )"
+}
