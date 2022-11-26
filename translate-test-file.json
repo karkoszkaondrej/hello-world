@@ -1,0 +1,7 @@
+{
+    "language": "fr",
+    "app_name": "=PROPER(GOOGLETRANSLATE(Application;en;fr ))",
+    "title": "=GOOGLETRANSLATE(Title;en;fr )",
+    "activity": "=PROPER(GOOGLETRANSLATE(Activity;en;fr ))",
+    "color": "=GOOGLETRANSLATE(Couleur;en;fr )"
+}
