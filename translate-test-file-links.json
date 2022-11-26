@@ -1,0 +1,18 @@
+[
+    {
+        "language" : "en",
+        "app_name" : "Application",
+        "title" : "Title",
+        "activity" : "Activity",
+        "color" : "Couleur"
+    },
+
+    {
+        "language" : "fr",
+        "app_name" : "=PROPER(GOOGLETRANSLATE($B$1;$A$1;A2 ))",
+        "title" : "=GOOGLETRANSLATE($C$1;$A$1;A2 )",
+        "activity" : "=PROPER(GOOGLETRANSLATE($D$1;$A$1;A2 ))",
+        "color" : "=GOOGLETRANSLATE($E$1;$A$1;A2 )"
+    }
+
+]
