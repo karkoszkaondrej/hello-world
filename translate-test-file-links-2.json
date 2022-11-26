@@ -9,10 +9,10 @@
 
     {
         "language" : "fr",
-        "app_name" : "=PROPER(GOOGLETRANSLATE($B$2;$A$2;A3 ))",
-        "title" : "=GOOGLETRANSLATE($C$2;$A$2;A3 )",
-        "activity" : "=PROPER(GOOGLETRANSLATE($D$1;$A$2;A3 ))",
-        "color" : "=GOOGLETRANSLATE($E$2;$A$2;A3 )"
+        "app_name" : "=PROPER(GOOGLETRANSLATE($B$2;$A$2;A3))",
+        "title" : "=GOOGLETRANSLATE($C$2;$A$2;A3)",
+        "activity" : "=PROPER(GOOGLETRANSLATE($D$1;$A$2;A3))",
+        "color" : "=GOOGLETRANSLATE($E$2;$A$2;A3)"
     }
 
 ]
